@@ -6,7 +6,7 @@ This is the artifact of the paper: [CrudiTEE: A Stick-and-Carrot Approach to Bui
 
 ## Instructions for reproducing the result in the Paper
 ### Step 1: 
-Under the ``./MDP_For_Wallet_Attacker`` dir, run
+Under the ``./MDP_for_Bounty_Evaluation`` dir, run
 ```
 mkdir output
 mkdir plot
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 3:
-Run the script under the ``./MDP_For_Wallet_Attacker`` dir
+Run the script under the ``./MDP_for_Bounty_Evaluation`` dir
 ```
 python3 bounty_evaluation.py
 ```
