@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ### Step 3:
 Run the script under the ``./MDP_for_Bounty_Evaluation`` dir
 ```
-python3 bounty_evaluation.py
+python bounty_evaluation.py
 ```
 
 The figure saved in ./plot is the Figure 4 in the paper.
